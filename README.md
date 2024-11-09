@@ -10,6 +10,5 @@ sdk_version: 1.40.0 <br />
 app_file: app.py <br />
 pinned: false <br />
 license: mit <br />
-short_description: Smart search feature for free courses on Analytics Vidhya's <br />
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
