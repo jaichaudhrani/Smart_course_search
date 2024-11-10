@@ -11,4 +11,4 @@ app_file: app.py <br />
 pinned: false <br />
 license: mit <br />
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check my website: https://huggingface.co/spaces/jaichaudhrani/Smart_course_search
